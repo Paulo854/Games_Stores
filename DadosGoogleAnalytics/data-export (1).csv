@@ -1,0 +1,220 @@
+# ----------------------------------------
+# Exportação do CSV de relatório
+# Conta: GameStore
+# Propriedade: GameStore
+# ----------------------------------------
+#  
+# Data de início: 20210107
+# Data de término: 20210113
+Dia,Usuários
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,3
+
+# Data de início: 20210107
+# Data de término: 20210113
+Dia,Novos usuários
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,3
+
+#  
+
+
+#  
+
+
+# Quanta receita você está gerando?
+# Data de início: 20201217
+# Data de término: 20210113
+Dia,Receita total
+
+
+# Data de início: 20201217
+# Data de término: 20210113
+Dia,Receita de compra
+
+
+# Data de início: 20201217
+# Data de término: 20210113
+Dia,Total de compradores
+
+
+# Qual é a qualidade das suas tendências de receita?
+# Data de início: 20201217
+# Data de término: 20210113
+Nº mês,Receita diária máxima,Receita média diária,Receita diária mínima
+
+
+# Qual é a qualidade das suas tendências de compradores?
+# Data de início: 20200113
+# Data de término: 20210113
+Nº mês,Máximo diário de compradores,Média diária de compradores,Mínimo diário de compradores
+
+
+# Quanto seus usuários estão gastando?
+# Data de início: 20201217
+# Data de término: 20210113
+Dia,ARPU
+
+
+# Data de início: 20201217
+# Data de término: 20210113
+Dia,Conversão de compradores
+
+
+# Data de início: 20201217
+# Data de término: 20210113
+Dia,ARPPU
+
+
+#  
+# Data de início: 20201217
+# Data de término: 20210113
+Dia,Tempo médio de engajamento
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,70
+
+# Data de início: 20201217
+# Data de término: 20210113
+Dia,Sessões engajadas por usuário
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,1
+
+# Data de início: 20201217
+# Data de término: 20210113
+Dia,Tempo de engajamento médio por sessão
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,70
+
+#  
+# Data de início: 20201217
+# Data de término: 20210113
+Coorte,Dia 1,Dia 7
+0,0,0
+1,0,0
+2,0,0
+3,0,0
+4,0,0
+5,0,0
+6,0,0
+7,0,0
+8,0,0
+9,0,0
+10,0,0
+11,0,0
+12,0,0
+13,0,0
+14,0,0
+15,0,0
+16,0,0
+17,0,0
+18,0,0
+19,0,0
+20,0,0
+21,0,0
+22,0,0
+23,0,0
+24,0,0
+25,0,0
+26,0,0
+27,0,0
+
+# De onde vêm seus visitantes?
+# Data de início: 20201217
+# Data de término: 20210113
+ID do país,Usuários,Usuários (Anterior)
+BR,1,0
+US,2,0
+
+# Data de início: 20201217
+# Data de término: 20210113
+País,Usuários
+United States,2
+Brazil,1
