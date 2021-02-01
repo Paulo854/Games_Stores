@@ -6,6 +6,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script data-ad-client="ca-pub-4048354880520142" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<script>
+  if (document.addEventListener) {
+      document.addEventListener("contextmenu", function(e) {
+          e.preventDefault();
+          return false;
+      });
+  } else { //Versões antigas do IE
+      document.attachEvent("oncontextmenu", function(e) {
+          e = e || window.event;
+          e.returnValue = false;
+          return false;
+      });
+  }
+  </script>
 <script async custom-element="amp-auto-ads"
         src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
 </script>
