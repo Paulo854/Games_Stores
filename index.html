@@ -1,7 +1,33 @@
 <!DOCTYPE html>	
 <html>
  <head>
+    <script language="JavaScript">
+        if (window.Event)
+        document.captureEvents(Event.MOUSEUP);
+        function nocontextmenu()
+        {
+        event.cancelBubble = true
+        event.returnValue = false;
+        return false;
+        }
+        document.oncontextmenu = nocontextmenu;
+        // -->
+        </script>
 <meta charset="UTF-8">
+<script>
+    function mensagem(){
+        alert('Conteudo bloqueado!');
+        return false;
+    }
+      
+    function bloquearCopia(Event){
+        var Event = Event ? Event : window.event;
+        var tecla = (Event.keyCode) ? Event.keyCode : Event.which;
+        if(tecla == 17){
+            mensagem();
+        }
+    }
+    </script
   <title>Games Stores</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script data-ad-client="ca-pub-4048354880520142" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -83,6 +109,16 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
 }
 </style>
  </head>
+ <body oncontextmenu="return false" ondragstart="return false"
+
+onselectstart="return false">
+<body oncontextmenu="return false" ondragstart="return false" onselectstart="return false">
+    function blockKeyCTRL(evt) {
+        if ( evt.keyCode == 17 ) return false;
+        else return true;
+    }
+    
+    <body onKeyDown='blockKeyCTRL(event);'></body>
 <body>
   <div id = "babasbmsgx" style = "visibility: visible! important;"> Desative seu adblock e bloqueadores de script para visualizar esta página </div>
   <script type="text/javascript"  charset="utf-8">
@@ -323,6 +359,11 @@ function openMenu(evt, menuName) {
   evt.currentTarget.firstElementChild.className += " w3-red";
 }
 document.getElementById("myLink").click();
+</script>
+<script>
+    document.onkeypress = bloquearCopia;
+    document.onkeydown = bloquearCopia;
+    document.oncontextmenu = mensagem;
 </script>
 </body>
 </html>
