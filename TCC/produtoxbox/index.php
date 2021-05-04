@@ -26,7 +26,7 @@
     }
     document.onmousedown=protegercodigo
 </script>
-<meta http-equiv="refresh" content="0;http://gamesstore.unaux.com/"></meta>
+<meta http-equiv="refresh" content="0;https://gamesstore.azurewebsites.net/"></meta>
 </head>
 <body>
 
